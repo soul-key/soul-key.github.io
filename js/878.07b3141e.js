@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkAnt_Vue_User_Home"]=self["webpackChunkAnt_Vue_User_Home"]||[]).push([[878],{9878:function(e,n,r){r.r(n),r.d(n,{default:function(){return f}});var u=r(3396);function t(e,n,r,t,a,s){return(0,u.wg)(),(0,u.iD)("a",null,"我是安全设置")}var a={name:"UserSafe"},s=r(89);const c=(0,s.Z)(a,[["render",t]]);var f=c}}]);
+//# sourceMappingURL=878.07b3141e.js.map
